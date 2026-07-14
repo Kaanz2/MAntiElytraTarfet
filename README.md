@@ -30,6 +30,6 @@ Ayrıca oyuncunun ana elinde veya sol elinde havai fişek bulunuyorsa başka bir
 ## Uyumluluk
 
 - Paper 1.21.4
-- Java 21
+- Java 21 - 25
 
 Hata bildirimi ve öneriler için Discord: **sindellz2**
